@@ -1,2 +1,3 @@
 # NITIAN-
-FirstRepositor-author is sanjiba pirbaka ;
+FirstRepositor-a
+uthor is sanjiba pirbaka ;
